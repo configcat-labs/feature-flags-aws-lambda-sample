@@ -2,7 +2,7 @@ import * as configcat from "configcat-node";
 import fetch from "node-fetch";
 
 let configCatClient = configcat.getClient(
-  "bzTbCEPv_E6GL6COig1QRQ/uZTJPJvsgUuyI8kCvbmXjg"
+  "YOUR-CONFIGCAT-SDK-KEY"
 );
 
 
