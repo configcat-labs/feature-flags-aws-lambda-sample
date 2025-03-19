@@ -1,11 +1,11 @@
 # How to use feature flags with AWS Lambda
 
-This is a companion repo for the blog article titled: **How to use feature flags with AWS Lambda**. The article walks you through the steps on how you can use ConfigCat feature flags to control functionalities of your AWS Lambda functions.
+This repo contains the accompanying sample for the blog article titled: **How to use feature flags with AWS Lambda**. The article walks you through the steps on how to use ConfigCat feature flags to control functionalities of your AWS Lambda functions.
 
 ## Prerequisites
 
-- [A verified AWS account](https://cloud.google.com/free)
-- Basic [Node.js](https://nodejs.org/en/) and AWS knowledge
+- [A verified AWS account](https://portal.aws.amazon.com/billing/signup)
+- Basic [Node.js](https://nodejs.org/en/) and [AWS knowledge](https://aws.amazon.com/getting-started/)
 
 ## Preparing the app
 
@@ -43,7 +43,7 @@ Useful links to technical resources.
 
 You can also explore other code samples for various languages, frameworks, and topics here in the [ConfigCat labs](https://github.com/configcat-labs) on GitHub.
 
-Keep up with ConfigCat on [Twitter](https://twitter.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
+Keep up with ConfigCat on [X](https://x.com/configcat), [Facebook](https://www.facebook.com/configcat), [LinkedIn](https://www.linkedin.com/company/configcat/), and [GitHub](https://github.com/configcat).
 
 ## Author
 
